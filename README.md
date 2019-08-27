@@ -14,7 +14,7 @@ POST https://aerial-join.glitch.me/api/shorturl/new - body (urlencoded) :  url=h
 
 #### Usage:
 
-https://aerial-join.glitch.me/api/shorturl/3
+https://aerial-join.glitch.me/api/shorturl/j5m
 
 #### Will redirect to:
 
